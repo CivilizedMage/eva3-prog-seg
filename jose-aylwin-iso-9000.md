@@ -1,6 +1,6 @@
 ### 1. ¿Qué significa ISO? ###
 
-*International Organization for standarization*, conocida por su sigla ISO, es una ONG intenacional sin fines de lucro.
+ISO significa *International Organization for Standarization*, u Organización Internacional para la Estandarización.
 
 ### 2. ¿Cuál es el objetivo principal de la ISO 9000? ###
 
