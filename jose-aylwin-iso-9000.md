@@ -1,6 +1,6 @@
 ### 1. ¿Qué significa ISO? ###
 
-ISO significa *International Organization for Standarization*, u Organización Internacional para la Estandarización.
+ISO significa *International Organization for Standarization*, u *Organización Internacional para la Estandarización* en español.
 
 ### 2. ¿Cuál es el objetivo principal de la ISO 9000? ###
 
