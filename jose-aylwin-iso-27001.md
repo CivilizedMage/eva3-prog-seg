@@ -22,7 +22,7 @@ Está basado en una gestión de riesgos,
 
 ### 6. ¿Qué son los controles en la ISO 27001 y dónde se encuentran? ###
 
-
+Son las medidas que se deben tomar a través de políticas, procesos y procedimientos para cumplir con los requisitos de seguridad.
 
 ### 7. ¿Por qué es importante el apoyo de la alta dirección? ###
 
