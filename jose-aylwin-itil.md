@@ -18,11 +18,16 @@ Significa *Biblioteca de Infraestructura de Tecnología de la Información*, con
 
 ### 4. Describe las cinco etapas del ciclo de vida del servicio según ITIL. ###
 
-1. Estrategia del servicio:
-2. 
+1. **Estrategia del servicio:** Ofrece procesos para identificar que servicios debe entregar, el tipo de cliente, los requerimientos y establecer los objetivos.
+2. **Diseño del servicio:** Ofrece los procesos para definir como va a llevar a cabo los servicios, los requisitos del servicio y equilibra las necesidades del negocio.
+3. **Transición del servicio:** Se construyen, prueban e implementan los srvicios a entregar.
+4. **Operación del servicio:** Se implementa la mantención del programa. Se utilizan la gestión de problemas y el cumplimiento de solicitud.
+5. **Mejora continua del servicio:** Ofrece procesos para medir y mejorar continuamente el servicio.
 
 ### 5. ¿Qué importancia tiene la "Mejora Continua del Servicio" en ITIL? ###
 
+Gracias a la mejora continua en el servicio, este proceso ayuda a mejorar continuamente la eficiencia y la eficacia de los servicios.
 
 ### 6. ¿Por qué ITIL se considera un marco de trabajo valioso para las organizaciones? ###
 
+Ya que proporciona una ayuda a las organizaciones a ofrecer un servicio eficiente y de calidad.
